@@ -55,6 +55,7 @@ export 🌛 = "Script of Moon"
 
 - [Editor Tools](#editor-tools)
 - [WASM](#wasm)
+- [Tools](#tools)
 - [Libraries](#libraries)
 - [Game Engines](#game-engines)
 - [Love2D](#love2d)
@@ -93,8 +94,15 @@ export 🌛 = "Script of Moon"
 - [yuescript.org's wasm](https://github.com/leodev-xyz/yuescript-wasm) copied to GH by @leodev-xyz
 
 
+## Tools
+
+- [yuepack](https://github.com/Le0Developer/yuepack) - tool for packing YueScript projects into a single file
+- [yuecheck](https://github.com/chrsm/yuecheck) - linter and formatter for YueScript
+
+
 ## Libraries
 
+- [leadoc](https://github.com/Le0Developer/leadoc) - write documentation for anything in YueScript
 - [moonclass](https://github.com/HTV04/moonclass) - function wrapper for class system
 - [pretty](https://github.com/SkyyySi/yuescript-pretty) - pretty printer, written in yue (for yue+lua)
 - [yuescript-tokenizer](https://github.com/SkyyySi/yuescript-tokenizer) - simple tokenizer/lexer for yuescript
@@ -149,6 +157,7 @@ Projects that use Yue.
 - [gm_moonloader](https://github.com/Pika-Software/gm_moonloader) - integration of Yuescript + MoonScript into Garry's
   Mod
 - [YueLovePlatformer](https://github.com/mathisto/YueLovePlatformer)
+- [luapack](https://github.com/Le0Developer/luapack) - tool for packing multiple Lua files into one
 
 
 ## Miscellaneous
