@@ -109,6 +109,7 @@ export 🌛 = "Script of Moon"
 - ? [libsunshine](https://github.com/SkyyySi/libsunshine) - general purpose/standard library
 - [fractional-lua](https://github.com/pmarreck/fractional-lua) - bignum/fraction math library
 - [lj4lj](https://github.com/chrsm/lj4lj) - luajit ffi for luajit
+- [@kaleidosium's fp utilities](https://gist.github.com/Kaleidosium/1af5454e7050c48db35e3ced8d7fac31) - gist of some functional utilities
 
 
 ## Game Engines
