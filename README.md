@@ -1,6 +1,31 @@
 Awesome Yuescript!
 ===
 
+<table align="center">
+  <tr>
+    <td align="center" valign="middle" width="150" height="150">
+      <img src="assets/yuescript.png" alt="YueScript logo"/><br/>
+    </td>
+    <td valign="middle">
+      <strong>A delightful language that compiles to Lua</strong><br/>
+      <sub>Dynamic, expressive, and concise syntax for Lua development.</sub><br/>
+      <sub>
+        <a href="https://yuescript.org/doc">Docs</a> ·
+        <a href="https://yuescript.org/try">Try Online</a> ·
+        <a href="https://discord.gg/cRJ2VAm2NV">Discord</a>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="assets/electrichearts_20260211A_yuescript_xiaoyu.png" width="360" alt="Xiaoyu, the YueScript mascot"/>
+</p>
+
+<p align="center">
+  <sub><b>Xiaoyu (小玉)</b> · Official YueScript Mascot</sub>
+</p>
+
 Anything and everything related to [Yue](https://github.com/IppClub/Yuescript).
 
 Yuescript started as a [Moonscript](https://github.com/leafo/moonscript) compiler
