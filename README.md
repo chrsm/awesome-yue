@@ -1,4 +1,4 @@
-Awesome Yuescript!
+Awesome YueScript!
 ===
 
 <table align="center">
@@ -26,12 +26,10 @@ Awesome Yuescript!
   <sub><b>Xiaoyu (小玉)</b> · Official YueScript Mascot</sub>
 </p>
 
-Anything and everything related to [Yue](https://github.com/IppClub/Yuescript).
+Anything and everything related to [YueScript](https://github.com/IppClub/Yuescript).
 
-Yuescript started as a [Moonscript](https://github.com/leafo/moonscript) compiler
+YueScript started as a [Moonscript](https://github.com/leafo/moonscript) compiler
 and has turned into a much better alternative to Lua than Moonscript.
-
-If you haven't checked out Yuescript, check the docs on [yuescript.org](https://yuescript.org)!
 
 Sample from the website:
 
@@ -84,9 +82,9 @@ export 🌛 = "Script of Moon"
 - [Libraries](#libraries)
 - [Game Engines](#game-engines)
 - [Love2D](#love2d)
-- [Configs](#configs) - software configs written in Yue (yue->lua)
-- [Projects](#projects) - projects that use Yue
-- [Miscellaneous](#miscellaneous) - miscellaneous things written in yue
+- [Configs](#configs) - software configs written in YueScript (->lua)
+- [Projects](#projects) - projects that use YueScript
+- [Miscellaneous](#miscellaneous) - miscellaneous things written in YueScript
 
 
 ## Editor Tools
@@ -94,19 +92,19 @@ export 🌛 = "Script of Moon"
 
 ### vim/neovim
 
-- [yuescript-vim](https://github.com/IppClub/yuescript-vim) - yue support for vim
-- [yuecheck-vim](https://github.com/Shados/yuecheck-vim) - ALE integration for yue
+- [yuescript-vim](https://github.com/IppClub/yuescript-vim) - support for vim
+- [yuecheck-vim](https://github.com/Shados/yuecheck-vim) - ALE integration
 
 
 ### VSCode
 
-- [yuescript-vscode](https://github.com/IppClub/yuescript-vscode) - yue support for VSCode
+- [yuescript-vscode](https://github.com/IppClub/yuescript-vscode) - support for VSCode
 - [YueRunner](https://github.com/MTadder/YueRunner) - provides YueScript compilation support
 
 
 ### micro
 
-- [yuescript-micro-syntax](https://github.com/SkyyySi/yuescript-micro-syntax) - yue support for [micro](https://github.com/zyedidia/micro)
+- [yuescript-micro-syntax](https://github.com/SkyyySi/yuescript-micro-syntax) - support for [micro](https://github.com/zyedidia/micro)
 
 
 ### emacs
@@ -129,8 +127,8 @@ export 🌛 = "Script of Moon"
 
 - [leadoc](https://github.com/Le0Developer/leadoc) - write documentation for anything in YueScript
 - [moonclass](https://github.com/HTV04/moonclass) - function wrapper for class system
-- [pretty](https://github.com/SkyyySi/yuescript-pretty) - pretty printer, written in yue (for yue+lua)
-- [yuescript-tokenizer](https://github.com/SkyyySi/yuescript-tokenizer) - simple tokenizer/lexer for yuescript
+- [pretty](https://github.com/SkyyySi/yuescript-pretty) - pretty printer
+- [yuescript-tokenizer](https://github.com/SkyyySi/yuescript-tokenizer) - simple tokenizer/lexer for YueScript
 - ? [libsunshine](https://github.com/SkyyySi/libsunshine) - general purpose/standard library
 - [fractional-lua](https://github.com/pmarreck/fractional-lua) - bignum/fraction math library
 - [lj4lj](https://github.com/chrsm/lj4lj) - luajit ffi for luajit
@@ -139,7 +137,7 @@ export 🌛 = "Script of Moon"
 
 ## Game Engines
 
-- (archived) [Yuema](https://github.com/megagrump/yuema) - raylib + luajit + yuescript
+- (archived) [Yuema](https://github.com/megagrump/yuema) - raylib + luajit + YueScript
 - [YueCat](https://github.com/RobinsAviary/YueCat) - software development framework, focused on games
 - [YASDK](https://github.com/amanitasolanaceae/YASDK) - "Yet Another Stupid Development Kit"
 
@@ -154,14 +152,14 @@ Libraries or projects using Yue and Love2D.
 
 ## Project Templates
 
-- [Playdate](https://github.com/ChildishGiant/playdate-yuescript-template) - Yuescript template for Playdate
+- [Playdate](https://github.com/ChildishGiant/playdate-yuescript-template) - YueScript template for Playdate
 - [Tsuki](https://github.com/Kaleidosium/Tsuki) - project template for Love2D
 - [yuelove2d](https://github.com/mathisto/yuelove2d) - barebones starter template
 
 
 ## Configs
 
-Configurations for things that use Lua, but in Yuescript
+Configurations for things that use Lua, but in YueScript
 
 - [@ekickx's neovim config](https://github.com/ekickx/nvim)
 - [@LooserName404's neovim config](https://github.com/LooserName404/nvim-config-yue)
@@ -175,12 +173,12 @@ Configurations for things that use Lua, but in Yuescript
 
 Projects that use Yue.
 
-- [Dorothy SSR](https://github.com/IppClub/Dora-SSR) - platformer by by Yuescript's creator
+- [Dorothy SSR](https://github.com/IppClub/Dora-SSR) - platformer and game engine by by YueScript's creator
 - [Yuescript-GTKTests](https://github.com/JeysonFlores/YuescriptGTKTests) - GTK test snippets in Yue
-- [yuescript-src-rs](https://github.com/Tarik02/yuescript-src-rs) mLua+yuescript (rust)
-- [yuescript-mlua](https://github.com/khvzak/yuescript-mlua) - mLua+yuescript (rust)
+- [yuescript-src-rs](https://github.com/Tarik02/yuescript-src-rs) mLua+YueScript (rust)
+- [yuescript-mlua](https://github.com/khvzak/yuescript-mlua) - mLua+YueScript (rust)
 - [fir](https://github.com/daelvn/fir) - language-agnostic documentation generator
-- [gm_moonloader](https://github.com/Pika-Software/gm_moonloader) - integration of Yuescript + MoonScript into Garry's
+- [gm_moonloader](https://github.com/Pika-Software/gm_moonloader) - integration of YueScript + MoonScript into Garry's
   Mod
 - [YueLovePlatformer](https://github.com/mathisto/YueLovePlatformer)
 - [luapack](https://github.com/Le0Developer/luapack) - tool for packing multiple Lua files into one
